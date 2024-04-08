@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tiago Leal, from 🇧🇷</p>
+<p align="left"></p>
 
 ###
 
