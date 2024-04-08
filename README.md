@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+
 
 ###
 
-<p align="left">I don't know what to write here</p>
+
 
 ###
 
